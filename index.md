@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-title: Welcome to Sam Appelbaum's homepage!
+<h1>Welcome to Sam Appelbaum's homepage!</h1>
 
 <p>I went to Glen Ridge High School. I was a part of their robotics team and eventually became the captain of programming. My hobbies include watching anime and playing videogames. </p>
 
